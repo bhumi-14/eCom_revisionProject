@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class Amazon {
   @Test
-  public void f() throws InterruptedException {
+  public void amazonTest() throws InterruptedException {
 	  WebDriver driver= new ChromeDriver();
 	  Reporter.log("opening Amazon", true);
 	  driver.get("https://www.amazon.in/");

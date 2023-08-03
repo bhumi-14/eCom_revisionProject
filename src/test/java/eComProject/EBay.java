@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class EBay {
   @Test
-  public void f() throws InterruptedException {
+  public void eBayTest() throws InterruptedException {
 	  WebDriver driver=new ChromeDriver();
 	  Reporter.log("opening eBay", true);
 	  driver.get("https://www.ebay.co.uk/");
