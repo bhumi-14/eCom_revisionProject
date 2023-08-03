@@ -10,9 +10,19 @@
       </class> <!-- eComProject.OpenCart -->
       <class name="eComProject.Amazon">
         <methods>
-          <include name="f"/>
+          <include name="amazonTest"/>
         </methods>
       </class> <!-- eComProject.Amazon -->
+      <class name="eComProject.EBay">
+        <methods>
+          <include name="eBayTest"/>
+        </methods>
+      </class> <!-- eComProject.EBay -->
+      <class name="eComProject.Zoho">
+        <methods>
+          <include name="zohoTest"/>
+        </methods>
+      </class> <!-- eComProject.Zoho -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
