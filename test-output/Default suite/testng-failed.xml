@@ -8,6 +8,11 @@
           <include name="openCart"/>
         </methods>
       </class> <!-- eComProject.OpenCart -->
+      <class name="eComProject.Amazon">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- eComProject.Amazon -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
