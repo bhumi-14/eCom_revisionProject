@@ -12,7 +12,7 @@ public class EBay {
 	  Reporter.log("opening eBay", true);
 	  driver.get("https://www.ebay.co.uk/");
 	  driver.manage().deleteAllCookies();
-	  Thread.sleep(5000);
+	  Thread.sleep(2000);
 	  driver.close();
 	  
   }
