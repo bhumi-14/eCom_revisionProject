@@ -12,7 +12,7 @@ public class Amazon {
 	  Reporter.log("opening Amazon", true);
 	  driver.get("https://www.amazon.in/");
 	  driver.manage().deleteAllCookies();
-	  Thread.sleep(5000);
+	  Thread.sleep(2000);
 	  driver.close();
   }
 }
