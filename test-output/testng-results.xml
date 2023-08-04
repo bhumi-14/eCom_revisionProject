@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Opening Meesho]]>
+    </line>
+    <line>
+      <![CDATA[opening Zoho]]>
+    </line>
+    <line>
+      <![CDATA[opening eBay]]>
+    </line>
+    <line>
+      <![CDATA[opening Amazon]]>
+    </line>
     <line>
       <![CDATA[Opening openCart]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-31T16:10:45 IST" name="Default suite" finished-at="2023-07-31T16:11:01 IST" duration-ms="16074">
+  <suite started-at="2023-08-04T16:05:04 IST" name="Default suite" finished-at="2023-08-04T16:05:57 IST" duration-ms="52596">
     <groups>
     </groups>
-    <test started-at="2023-07-31T16:10:45 IST" name="Default test" finished-at="2023-07-31T16:11:01 IST" duration-ms="16074">
+    <test started-at="2023-08-04T16:05:04 IST" name="Default test" finished-at="2023-08-04T16:05:57 IST" duration-ms="52596">
+      <class name="eComProject.Meesho">
+        <test-method signature="meeshoTest()[pri:0, instance:eComProject.Meesho@294425a7]" started-at="2023-08-04T16:05:04 IST" name="meeshoTest" finished-at="2023-08-04T16:05:14 IST" duration-ms="10149" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Meesho]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- meeshoTest -->
+      </class> <!-- eComProject.Meesho -->
+      <class name="eComProject.Zoho">
+        <test-method signature="zohoTest()[pri:0, instance:eComProject.Zoho@2a798d51]" started-at="2023-08-04T16:05:14 IST" name="zohoTest" finished-at="2023-08-04T16:05:27 IST" duration-ms="12857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening Zoho]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- zohoTest -->
+      </class> <!-- eComProject.Zoho -->
+      <class name="eComProject.EBay">
+        <test-method signature="eBayTest()[pri:0, instance:eComProject.EBay@6d763516]" started-at="2023-08-04T16:05:27 IST" name="eBayTest" finished-at="2023-08-04T16:05:36 IST" duration-ms="9017" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening eBay]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- eBayTest -->
+      </class> <!-- eComProject.EBay -->
+      <class name="eComProject.Amazon">
+        <test-method signature="amazonTest()[pri:0, instance:eComProject.Amazon@52bf72b5]" started-at="2023-08-04T16:05:36 IST" name="amazonTest" finished-at="2023-08-04T16:05:47 IST" duration-ms="10669" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- eComProject.Amazon -->
       <class name="eComProject.OpenCart">
-        <test-method signature="openCart()[pri:0, instance:eComProject.OpenCart@3e58a80e]" started-at="2023-07-31T16:10:45 IST" name="openCart" finished-at="2023-07-31T16:11:01 IST" duration-ms="16021" status="PASS">
+        <test-method signature="openCart()[pri:0, instance:eComProject.OpenCart@37afeb11]" started-at="2023-08-04T16:05:47 IST" name="openCart" finished-at="2023-08-04T16:05:57 IST" duration-ms="9845" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening openCart]]>

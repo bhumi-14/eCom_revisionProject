@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class Zoho {
   @Test
-  public void f() throws InterruptedException {
+  public void zohoTest() throws InterruptedException {
 	  WebDriver driver=new ChromeDriver();
 	  Reporter.log("opening Zoho", true);
 	  driver.get("https://www.zoho.com/");

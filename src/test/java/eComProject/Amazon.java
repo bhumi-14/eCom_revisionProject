@@ -7,12 +7,12 @@ import org.testng.annotations.Test;
 
 public class Amazon {
   @Test
-  public void f() throws InterruptedException {
+  public void amazonTest() throws InterruptedException {
 	  WebDriver driver= new ChromeDriver();
 	  Reporter.log("opening Amazon", true);
 	  driver.get("https://www.amazon.in/");
 	  driver.manage().deleteAllCookies();
-	  Thread.sleep(5000);
+	  Thread.sleep(2000);
 	  driver.close();
   }
 }
