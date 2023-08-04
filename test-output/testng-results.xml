@@ -17,12 +17,12 @@
       <![CDATA[Opening openCart]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-03T20:38:56 IST" name="Default suite" finished-at="2023-08-03T20:39:56 IST" duration-ms="59703">
+  <suite started-at="2023-08-04T16:05:04 IST" name="Default suite" finished-at="2023-08-04T16:05:57 IST" duration-ms="52596">
     <groups>
     </groups>
-    <test started-at="2023-08-03T20:38:56 IST" name="Default test" finished-at="2023-08-03T20:39:56 IST" duration-ms="59703">
+    <test started-at="2023-08-04T16:05:04 IST" name="Default test" finished-at="2023-08-04T16:05:57 IST" duration-ms="52596">
       <class name="eComProject.Meesho">
-        <test-method signature="meeshoTest()[pri:0, instance:eComProject.Meesho@294425a7]" started-at="2023-08-03T20:38:56 IST" name="meeshoTest" finished-at="2023-08-03T20:39:06 IST" duration-ms="10369" status="PASS">
+        <test-method signature="meeshoTest()[pri:0, instance:eComProject.Meesho@294425a7]" started-at="2023-08-04T16:05:04 IST" name="meeshoTest" finished-at="2023-08-04T16:05:14 IST" duration-ms="10149" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening Meesho]]>
@@ -31,7 +31,7 @@
         </test-method> <!-- meeshoTest -->
       </class> <!-- eComProject.Meesho -->
       <class name="eComProject.Zoho">
-        <test-method signature="zohoTest()[pri:0, instance:eComProject.Zoho@2a798d51]" started-at="2023-08-03T20:39:06 IST" name="zohoTest" finished-at="2023-08-03T20:39:21 IST" duration-ms="14287" status="PASS">
+        <test-method signature="zohoTest()[pri:0, instance:eComProject.Zoho@2a798d51]" started-at="2023-08-04T16:05:14 IST" name="zohoTest" finished-at="2023-08-04T16:05:27 IST" duration-ms="12857" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening Zoho]]>
@@ -40,7 +40,7 @@
         </test-method> <!-- zohoTest -->
       </class> <!-- eComProject.Zoho -->
       <class name="eComProject.EBay">
-        <test-method signature="eBayTest()[pri:0, instance:eComProject.EBay@6d763516]" started-at="2023-08-03T20:39:21 IST" name="eBayTest" finished-at="2023-08-03T20:39:31 IST" duration-ms="10375" status="PASS">
+        <test-method signature="eBayTest()[pri:0, instance:eComProject.EBay@6d763516]" started-at="2023-08-04T16:05:27 IST" name="eBayTest" finished-at="2023-08-04T16:05:36 IST" duration-ms="9017" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening eBay]]>
@@ -49,7 +49,7 @@
         </test-method> <!-- eBayTest -->
       </class> <!-- eComProject.EBay -->
       <class name="eComProject.Amazon">
-        <test-method signature="amazonTest()[pri:0, instance:eComProject.Amazon@52bf72b5]" started-at="2023-08-03T20:39:31 IST" name="amazonTest" finished-at="2023-08-03T20:39:45 IST" duration-ms="13934" status="PASS">
+        <test-method signature="amazonTest()[pri:0, instance:eComProject.Amazon@52bf72b5]" started-at="2023-08-04T16:05:36 IST" name="amazonTest" finished-at="2023-08-04T16:05:47 IST" duration-ms="10669" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening Amazon]]>
@@ -58,7 +58,7 @@
         </test-method> <!-- amazonTest -->
       </class> <!-- eComProject.Amazon -->
       <class name="eComProject.OpenCart">
-        <test-method signature="openCart()[pri:0, instance:eComProject.OpenCart@37afeb11]" started-at="2023-08-03T20:39:45 IST" name="openCart" finished-at="2023-08-03T20:39:56 IST" duration-ms="10666" status="PASS">
+        <test-method signature="openCart()[pri:0, instance:eComProject.OpenCart@37afeb11]" started-at="2023-08-04T16:05:47 IST" name="openCart" finished-at="2023-08-04T16:05:57 IST" duration-ms="9845" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening openCart]]>
