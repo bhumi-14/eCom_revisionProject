@@ -12,7 +12,7 @@ public class Meesho {
 	  Reporter.log("Opening Meesho", true);
 	  driver.get("https://www.meesho.com/");
 	  driver.manage().deleteAllCookies();
-	  Thread.sleep(5000);
+	  Thread.sleep(2000);
 	  driver.close();
   }
 }
